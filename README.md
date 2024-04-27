@@ -75,3 +75,9 @@ The app was tested in most popular browsers including:
 ## License
 
 This project is licensed under the terms of the MIT license.
+
+## Contacts
+
+If you have any questions, please contact @krglkvrmn - Telegram or kruglikov1911@mail.ru - Email
+
+
