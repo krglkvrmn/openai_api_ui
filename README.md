@@ -6,7 +6,7 @@ A UI wrapper for an OpenAI chat completions API
 
 + Paid ChatGPT subscription isn't be the best option for users that only use AI occasionally, but still sometimes need to work with powerful models like GPT-4.
 + The project was created to utilize **pay as you go** model of OpenAI's API **instead of monthly subscriptions** while preserving ChatGPT-like user experience.
-+ Also I wanted to add some additional features, which I lack in ChatGPT
++ Also I wanted to add some additional features, which I miss in ChatGPT
 
 ## Demo 📺
 <div align="center">
