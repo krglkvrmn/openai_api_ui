@@ -17,12 +17,12 @@ A UI wrapper for an OpenAI chat completions API
 #### Prompts library 📚
 + Your **system prompts** (custom rules and instructions for an assistant) are saved and can be re-used
 
-<img src="https://www.dropbox.com/scl/fi/n0w81ax3a7lk9a23m5my0/Prompts_library_demo.gif?rlkey=we14ghubm18x85zcnchnfoety&st=x6mc0ddk&dl=1" style="zoom:50%;" />
+<img src="https://dl.dropboxusercontent.com/scl/fi/n0w81ax3a7lk9a23m5my0/Prompts_library_demo.gif?rlkey=we14ghubm18x85zcnchnfoety&st=x6mc0ddk&dl=1" style="zoom:50%;" />
 
 #### Parallel message generation ✉️
 + This app allows simultaneous message generation in different chats
 
-<img src="https://www.dropbox.com/scl/fi/a48ahtl285ds2st3huyta/Parallel_generation_demo.gif?rlkey=rd6979330uvp74tlgbyoj7o4r&st=gsjt6yir&dl=1" style="zoom:50%;" />
+<img src="https://dl.dropboxusercontent.com/scl/fi/a48ahtl285ds2st3huyta/Parallel_generation_demo.gif?rlkey=rd6979330uvp74tlgbyoj7o4r&st=gsjt6yir&dl=1" style="zoom:50%;" />
 
 #### Pay per token with your own API key 🔑
 + You have full control of how much you spend, because you pay per token (input and output). You can check out pricing [on this page](https://openai.com/pricing)
