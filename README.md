@@ -10,8 +10,7 @@ A UI wrapper for an OpenAI chat completions API
 
 ## Demo 📺
 
-<img src="https://www.dropbox.com/scl/fi/etrx3xy1byv3uvsosp2bd/Overall_demo.gif?rlkey=54rsdc52roj94un0dpprr1h8z&st=1x09jzv5&dl=1" style="zoom: 50%;" />
-
+![](https://www.dropbox.com/scl/fi/etrx3xy1byv3uvsosp2bd/Overall_demo.gif?rlkey=54rsdc52roj94un0dpprr1h8z&st=1x09jzv5&dl=1)
 <h2 title="*In comparison with ChatGPT">Unique features* ⭐️</h2>
 
 #### Prompts library 📚
